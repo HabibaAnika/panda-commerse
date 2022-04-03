@@ -1,0 +1,35 @@
+.panda-carousel{
+    background-color: #feeae9;
+    border-radius: 0.31em;
+}
+.gt{
+    border-radius: 40%;
+}
+.panda-card{
+    border: none;
+}
+.panda-footer{
+    background-color: white;
+    border: none;
+}
+button{
+    font-family: cursive;
+    background-image:linear-gradient(rgba(255, 74, 146, 0.849),rgb(221, 21, 101));
+    border: none;
+    padding: 10px 15px;
+    color: white;
+    border-radius: 10px;
+}
+.taka{
+    color: rgb(245, 42, 144);
+}
+.bags{
+    border: none;
+}
+.last{
+    background-color: #feeae9;
+    height: 300px;
+     margin: 75px;
+     margin-top: 30px;
+     border-radius: 0.75em;
+}
